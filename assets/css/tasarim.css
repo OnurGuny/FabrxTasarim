@@ -1,5 +1,5 @@
 *, *::before, *::after {
-    box-sizing: border-box;
+    kutu-sizing: border-kutu;
 }
 
 * {
@@ -109,15 +109,15 @@ h3 {
     gap: 32px;
 }
   
-.box {
-    box-sizing: border-box;
+.kutu {
+    kutu-sizing: border-kutu;
     border: 1px solid #C4C4C4;
     border-radius: 12px; 
     margin-bottom: 80px;
     padding: 24px;
 }
 
-.box h3 {
+.kutu h3 {
     margin-top: 24px;
 }
 
@@ -137,7 +137,7 @@ h3 {
     font-family: 'Montserrat';
 }
 
-.kfct {
+.kfctitle{
     margin-top: 180px;
     margin-bottom: 40px;
 }
