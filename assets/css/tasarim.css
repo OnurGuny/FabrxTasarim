@@ -1,5 +1,5 @@
 *, *::before, *::after {
-    kutu-sizing: border-kutu;
+    box-sizing: border-box;
 }
 
 * {
@@ -110,7 +110,7 @@ h3 {
 }
   
 .kutu {
-    kutu-sizing: border-kutu;
+    box-sizing: border-box;
     border: 1px solid #C4C4C4;
     border-radius: 12px; 
     margin-bottom: 80px;
